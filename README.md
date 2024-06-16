@@ -6,7 +6,8 @@ Used for adding watermarks to image files
 Planned
 
 ## Preview
-![Preview](assets/)
+/outputs<br>
+![Preview](assets/pengu.png)
 
 ## License
 [GLPv3](https://www.qt.io/licensing/open-source-lgpl-obligations)
